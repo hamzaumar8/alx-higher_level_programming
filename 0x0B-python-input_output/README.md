@@ -1,1 +1,1 @@
-Input Output Project Python
+# Solutions to tasks on Python - Input/Output
